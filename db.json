@@ -7,6 +7,10 @@
 "location": "Boom",
 "date": "July 16 & 17, 2021",
 "time": "09:00",
+"features": {
+  "parking": true,
+  "campig": true
+  },
 "imagePath": "tomorrowland.png"
 },
 {
