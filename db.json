@@ -9,7 +9,9 @@
 "time": "09:00",
 "features": {
   "parking": true,
-  "camping": true
+  "camping": true,
+  "toegengbeperking": true,
+  "shops": true
   },
 "imagePath": "tomorrowland.png"
 },
@@ -21,6 +23,12 @@
 "location": "Werchter",
 "date": "July 4, 2021",
 "time": "09:00",
+  "features": {
+    "parking": false,
+    "camping": true,
+    "toegengbeperking": true,
+    "shops": true
+  },
 "imagePath": "rockwerchter.png"
 },
 {
@@ -31,6 +39,12 @@
 "location": "Hasselt",
 "date": "July 22 2021",
 "time": "09:00",
+  "features": {
+    "parking": true,
+    "camping": false,
+    "toegengbeperking": true,
+    "shops": false
+  },
 "imagePath": "pukkelpop.png"
 },
 {
@@ -41,6 +55,12 @@
 "location": "Dessel",
 "date": "July 04 2021",
 "time": "09:00",
+  "features": {
+    "parking": true,
+    "camping": false,
+    "toegengbeperking": false,
+    "shops": true
+  },
 "imagePath": "graspop.png"
 }
 ]}
